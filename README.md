@@ -7,6 +7,7 @@ Data is taken from the UNSW Predators project and images are downloaded from the
 # Instructions
 - Create a "data" folder, in the same directory as your code.
 - Download the metadata .JSON containing the API links [here](https://lilawildlife.blob.core.windows.net/lila-wildlife/unsw-predators/unsw-predators.json.zip).
+- Insert the .JSON file in the "data" directory. You're all set!
 - Run the code step by step.
 
 ### Warnings:
